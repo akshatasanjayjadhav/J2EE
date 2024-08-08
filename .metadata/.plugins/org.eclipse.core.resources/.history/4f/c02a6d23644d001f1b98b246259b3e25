@@ -1,0 +1,5 @@
+package com.jspiders.ecommerceapplication.collection;
+
+public class UserCollection {
+
+}
